@@ -1,0 +1,15 @@
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.exe
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\ref\PSP02_TE01_AlquilerBicisDonostia.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\bin\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\ref\PSP02_TE01_AlquilerBicisDonostia.dll
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.pdb
+C:\Users\ulhi\source\repos\PSP\PSP02_TE01_AlquilerBicisDonostia\PSP02_TE01_AlquilerBicisDonostia\obj\Debug\net6.0\PSP02_TE01_AlquilerBicisDonostia.genruntimeconfig.cache
